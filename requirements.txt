@@ -1,5 +1,3 @@
 pyrogram
-tgcrypto
-pytgcalls==0.0.3
-pyrogram
 TgCrypto
+pytgcalls==0.0.5
