@@ -1,3 +1,6 @@
 pyrogram
 tgcrypto
 pytgcalls==0.0.3
+--no-cache-dir
+pyrogram
+TgCrypto
